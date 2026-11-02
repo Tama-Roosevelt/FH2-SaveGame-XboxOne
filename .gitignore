@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary & backup files
+*.tmp
+*.bak
+backup_*/
+
+# Release archives (stored in GitHub Releases)
+*.zip

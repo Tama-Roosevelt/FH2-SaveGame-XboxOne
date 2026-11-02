@@ -1,0 +1,1407 @@
+
+<ObjectDictionary>
+  <Object Id="BucketListState" Type="BucketListState">
+    <Property Name="LastActiveForMainland" Value="1"/>
+    <Property Name="LastActiveForIsland" Value="-1"/>
+    <Property Name="LastNumberOfChallenges" Value="63"/>
+  </Object>
+  <Object Id="BucketListTutorial" Type="TutorialSaveState">
+    <Property Name="Seen" Value="false"/>
+  </Object>
+  <Object Id="CareerState" Type="CareerState">
+    <Property Name="ActiveCareerLocation" Value="Mainland"/>
+    <Property Name="CompletedEventRaceId" Value="-1"/>
+    <Property Name="RoadTripPlaythroughId" Value="1"/>
+    <Property Name="RoadTripLocation" Value="6"/>
+    <Property Name="DestinationSelectMode" Value="Scripted"/>
+    <Property Name="UserSelectedNextLocation" Value="0"/>
+    <Property Name="NumLocationsVisitedThisRoadTrip" Value="1"/>
+    <Property Name="NumScriptedPlaythroughsCompleted" Value="2"/>
+    <Property Name="RoadTripStarted" Value="true"/>
+    <Property Name="CurrentCampaign" Value="40"/>
+    <Property Name="CurrentIslandCampaign" Value="-1"/>
+    <Property Name="BlockingEventId" Value="-1"/>
+    <Property Name="PendingFinalEvent" Value="false"/>
+    <Property Name="PendingIslandFinalEvent" Value="false"/>
+    <Property Name="PendingFinalSlamDown" Value="false"/>
+    <Property Name="PendingIslandFinalSlamDown" Value="false"/>
+    <Property Name="WonFirstFinal" Value="true"/>
+    <Property Name="WonFirstIslandFinal" Value="false"/>
+    <Property Name="WonSecondFinal" Value="true"/>
+    <Property Name="WonSecondIslandFinal" Value="false"/>
+    <Property Name="ChampionshipsPlayedCount" Value="168"/>
+    <Property Name="IslandChampionshipsPlayedCount" Value="0"/>
+    <Property Name="RoadTripCreatorUnlocked" Value="true"/>
+  </Object>
+  <Object Id="ChampionshipDrivatarsState" Type="ChampionshipDrivatarsState"/>
+  <Object Id="CurrentCarState" Type="CurrentCarState">
+    <Property Name="TopSpeed" Value="42.5213"/>
+    <Property Name="TimeDriven" Value="50.6813"/>
+    <Property Name="DistDriven" Value="1142.45"/>
+    <Property Name="TimeDrivenInFirst" Value="0"/>
+  </Object>
+  <Object Id="CurrentDestinationState" Type="CurrentDestinationState">
+    <Property Name="SpeedTrapsAndZonesTriggered" Value="0"/>
+    <Property Name="MostCollisionsInRace" Value="0"/>
+    <Property Name="HighestSkillChainScore" Value="0"/>
+    <Property Name="NumUltimateDrifts" Value="0"/>
+    <Property Name="NumUltimateSpeeds" Value="0"/>
+    <Property Name="NumUltimateDrafts" Value="0"/>
+    <Property Name="NumUltimatePasses" Value="0"/>
+    <Property Name="NumUltimateBurnouts" Value="0"/>
+    <Property Name="NumUltimateAirs" Value="0"/>
+    <Property Name="NumUltimateTwoWheels" Value="0"/>
+    <Property Name="NumUltimateEDrifts" Value="0"/>
+    <Property Name="NumUltimateNearMisses" Value="0"/>
+    <Property Name="NumUltimateWreckages" Value="0"/>
+    <Property Name="NumUltimateOneEighties" Value="0"/>
+    <Property Name="NumUltimateJTurns" Value="0"/>
+    <Property Name="BiggestAir" Value="0"/>
+    <Property Name="LongestDrift" Value="0"/>
+    <Property Name="TimeLastVisited" Value="0"/>
+  </Object>
+  <Object Id="DIALOGUE_AeroIntro" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="7179"/>
+    <Property Name="TimeLastPlayed" Value="35.8811"/>
+  </Object>
+  <Object Id="DIALOGUE_AssistIntro1" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="3268"/>
+    <Property Name="TimeLastPlayed" Value="12.9441"/>
+  </Object>
+  <Object Id="DIALOGUE_AutoUpgradeIntro" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="24297"/>
+    <Property Name="TimeLastPlayed" Value="51.3078"/>
+  </Object>
+  <Object Id="DIALOGUE_AutoshowGreet" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="2"/>
+    <Property Name="VariationSeed" Value="25281"/>
+    <Property Name="TimeLastPlayed" Value="67.4511"/>
+  </Object>
+  <Object Id="DIALOGUE_BenDrivatarIntro2" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="27490"/>
+    <Property Name="TimeLastPlayed" Value="12.4166"/>
+  </Object>
+  <Object Id="DIALOGUE_BonusBoardsDJ" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="-1"/>
+    <Property Name="TimeLastPlayed" Value="-3.40282e+038"/>
+  </Object>
+  <Object Id="DIALOGUE_BucketlistDJ" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="0"/>
+    <Property Name="VariationSeed" Value="-1"/>
+    <Property Name="TimeLastPlayed" Value="-3.40282e+038"/>
+  </Object>
+  <Object Id="DIALOGUE_BucketlistSuccess2" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="0"/>
+    <Property Name="VariationSeed" Value="-1"/>
+    <Property Name="TimeLastPlayed" Value="-3.40282e+038"/>
+  </Object>
+  <Object Id="DIALOGUE_CarMeetEntered_event_dummy" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="-1"/>
+    <Property Name="TimeLastPlayed" Value="-3.40282e+038"/>
+  </Object>
+  <Object Id="DIALOGUE_Champ1Sports" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="24613"/>
+    <Property Name="TimeLastPlayed" Value="23.2512"/>
+  </Object>
+  <Object Id="DIALOGUE_Champ1ThreeRace" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="19987"/>
+    <Property Name="TimeLastPlayed" Value="23.2512"/>
+  </Object>
+  <Object Id="DIALOGUE_Championship4" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="30989"/>
+    <Property Name="TimeLastPlayed" Value="27.5961"/>
+  </Object>
+  <Object Id="DIALOGUE_ConversionIntro" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="1314"/>
+    <Property Name="TimeLastPlayed" Value="52.9147"/>
+  </Object>
+  <Object Id="DIALOGUE_DJInitialIE" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="3451"/>
+    <Property Name="TimeLastPlayed" Value="7.06412"/>
+  </Object>
+  <Object Id="DIALOGUE_DJRoadTripDest1" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="-1"/>
+    <Property Name="TimeLastPlayed" Value="-3.40282e+038"/>
+  </Object>
+  <Object Id="DIALOGUE_DJWeatherSunny" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="-1"/>
+    <Property Name="TimeLastPlayed" Value="-3.40282e+038"/>
+  </Object>
+  <Object Id="DIALOGUE_DrivetrainIntro" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="15866"/>
+    <Property Name="TimeLastPlayed" Value="34.2518"/>
+  </Object>
+  <Object Id="DIALOGUE_EngineIntro" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="10180"/>
+    <Property Name="TimeLastPlayed" Value="52.3689"/>
+  </Object>
+  <Object Id="DIALOGUE_FerryIntro1" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="1100"/>
+    <Property Name="TimeLastPlayed" Value="2.34579"/>
+  </Object>
+  <Object Id="DIALOGUE_FerryIntro2" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="10304"/>
+    <Property Name="TimeLastPlayed" Value="2.66246"/>
+  </Object>
+  <Object Id="DIALOGUE_FerryIntro3" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="4705"/>
+    <Property Name="TimeLastPlayed" Value="2.89579"/>
+  </Object>
+  <Object Id="DIALOGUE_FerryIntro4" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="27983"/>
+    <Property Name="TimeLastPlayed" Value="2.96246"/>
+  </Object>
+  <Object Id="DIALOGUE_FirstCar" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="12283"/>
+    <Property Name="TimeLastPlayed" Value="9.17551"/>
+  </Object>
+  <Object Id="DIALOGUE_FirstCarMeetAlt" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="0"/>
+    <Property Name="VariationSeed" Value="-1"/>
+    <Property Name="TimeLastPlayed" Value="-3.40282e+038"/>
+  </Object>
+  <Object Id="DIALOGUE_FirstChampRace" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="29989"/>
+    <Property Name="TimeLastPlayed" Value="27.5708"/>
+  </Object>
+  <Object Id="DIALOGUE_FirstRaceNotCC" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="20884"/>
+    <Property Name="TimeLastPlayed" Value="24.9477"/>
+  </Object>
+  <Object Id="DIALOGUE_FirstcarConfirmE" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="20579"/>
+    <Property Name="TimeLastPlayed" Value="9.5844"/>
+  </Object>
+  <Object Id="DIALOGUE_FreeRoamInviteDelayed" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="0"/>
+    <Property Name="VariationSeed" Value="-1"/>
+    <Property Name="TimeLastPlayed" Value="-3.40282e+038"/>
+  </Object>
+  <Object Id="DIALOGUE_FreeRoamInviteX" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="0"/>
+    <Property Name="VariationSeed" Value="-1"/>
+    <Property Name="TimeLastPlayed" Value="-3.40282e+038"/>
+  </Object>
+  <Object Id="DIALOGUE_GarageGreet" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="4"/>
+    <Property Name="VariationSeed" Value="18649"/>
+    <Property Name="TimeLastPlayed" Value="69.9608"/>
+  </Object>
+  <Object Id="DIALOGUE_GarageIntro" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="4015"/>
+    <Property Name="TimeLastPlayed" Value="33.9588"/>
+  </Object>
+  <Object Id="DIALOGUE_GarageOpen" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="1632"/>
+    <Property Name="TimeLastPlayed" Value="23.9076"/>
+  </Object>
+  <Object Id="DIALOGUE_HeatsUpdateTop3" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="24982"/>
+    <Property Name="TimeLastPlayed" Value="14.358"/>
+  </Object>
+  <Object Id="DIALOGUE_HorizonHeatsIntro" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="11832"/>
+    <Property Name="TimeLastPlayed" Value="12.6599"/>
+  </Object>
+  <Object Id="DIALOGUE_HorizonHeatsWin" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="29348"/>
+    <Property Name="TimeLastPlayed" Value="15.2097"/>
+  </Object>
+  <Object Id="DIALOGUE_InitialDriveAlt" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="1371"/>
+    <Property Name="TimeLastPlayed" Value="5.02385"/>
+  </Object>
+  <Object Id="DIALOGUE_InitialExperience2" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="0"/>
+    <Property Name="VariationSeed" Value="-1"/>
+    <Property Name="TimeLastPlayed" Value="7.91162"/>
+  </Object>
+  <Object Id="DIALOGUE_MapFirstRoadTrip" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="0"/>
+    <Property Name="VariationSeed" Value="-1"/>
+    <Property Name="TimeLastPlayed" Value="-3.40282e+038"/>
+  </Object>
+  <Object Id="DIALOGUE_MapFriendRoadTrip" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="0"/>
+    <Property Name="VariationSeed" Value="-1"/>
+    <Property Name="TimeLastPlayed" Value="-3.40282e+038"/>
+  </Object>
+  <Object Id="DIALOGUE_MapFriendsRoadTrip" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="0"/>
+    <Property Name="VariationSeed" Value="-1"/>
+    <Property Name="TimeLastPlayed" Value="-3.40282e+038"/>
+  </Object>
+  <Object Id="DIALOGUE_MapScreen1a" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="23271"/>
+    <Property Name="TimeLastPlayed" Value="23.2512"/>
+  </Object>
+  <Object Id="DIALOGUE_MapTutorial2" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="6353"/>
+    <Property Name="TimeLastPlayed" Value="9.7569"/>
+  </Object>
+  <Object Id="DIALOGUE_MapTutorial3" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="2443"/>
+    <Property Name="TimeLastPlayed" Value="10.1188"/>
+  </Object>
+  <Object Id="DIALOGUE_PDLC_IE1" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="21547"/>
+    <Property Name="TimeLastPlayed" Value="57.872"/>
+  </Object>
+  <Object Id="DIALOGUE_PDLC_IE4" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="12435"/>
+    <Property Name="TimeLastPlayed" Value="57.3585"/>
+  </Object>
+  <Object Id="DIALOGUE_PDLC_IE5" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="25017"/>
+    <Property Name="TimeLastPlayed" Value="57.5752"/>
+  </Object>
+  <Object Id="DIALOGUE_PDLC_PrePurchase" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="18599"/>
+    <Property Name="TimeLastPlayed" Value="57.1584"/>
+  </Object>
+  <Object Id="DIALOGUE_PaintShopIntro" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="13938"/>
+    <Property Name="TimeLastPlayed" Value="51.8677"/>
+  </Object>
+  <Object Id="DIALOGUE_PlatformIntro" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="23529"/>
+    <Property Name="TimeLastPlayed" Value="54.5957"/>
+  </Object>
+  <Object Id="DIALOGUE_RadioUnlock" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="29875"/>
+    <Property Name="TimeLastPlayed" Value="10.203"/>
+  </Object>
+  <Object Id="DIALOGUE_RewardBoardTutorial" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="0"/>
+    <Property Name="VariationSeed" Value="-1"/>
+    <Property Name="TimeLastPlayed" Value="-3.40282e+038"/>
+  </Object>
+  <Object Id="DIALOGUE_RewardBoardTutorial_NotDJ" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="0"/>
+    <Property Name="VariationSeed" Value="-1"/>
+    <Property Name="TimeLastPlayed" Value="-3.40282e+038"/>
+  </Object>
+  <Object Id="DIALOGUE_RoadTripDepart" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="0"/>
+    <Property Name="VariationSeed" Value="-1"/>
+    <Property Name="TimeLastPlayed" Value="18.1226"/>
+  </Object>
+  <Object Id="DIALOGUE_SignUpTut" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="11364"/>
+    <Property Name="TimeLastPlayed" Value="12.023"/>
+  </Object>
+  <Object Id="DIALOGUE_SkillPointAvailableALT" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="17922"/>
+    <Property Name="TimeLastPlayed" Value="19.2046"/>
+  </Object>
+  <Object Id="DIALOGUE_SkillTree1" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="29367"/>
+    <Property Name="TimeLastPlayed" Value="19.4075"/>
+  </Object>
+  <Object Id="DIALOGUE_SkillTree2" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="18143"/>
+    <Property Name="TimeLastPlayed" Value="19.6207"/>
+  </Object>
+  <Object Id="DIALOGUE_SkillsIntro" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="5298"/>
+    <Property Name="TimeLastPlayed" Value="16.2472"/>
+  </Object>
+  <Object Id="DIALOGUE_SkillsTutorial3" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="8798"/>
+    <Property Name="TimeLastPlayed" Value="28.6193"/>
+  </Object>
+  <Object Id="DIALOGUE_SpeedTrapTutorial" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="17787"/>
+    <Property Name="TimeLastPlayed" Value="11.2141"/>
+  </Object>
+  <Object Id="DIALOGUE_TuningIntro" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="17774"/>
+    <Property Name="TimeLastPlayed" Value="50.6416"/>
+  </Object>
+  <Object Id="DIALOGUE_TyresIntro" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="7624"/>
+    <Property Name="TimeLastPlayed" Value="34.4481"/>
+  </Object>
+  <Object Id="DIALOGUE_WeatherIntro1" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="16654"/>
+    <Property Name="TimeLastPlayed" Value="20.2076"/>
+  </Object>
+  <Object Id="DIALOGUE_WheelspinIntroX" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="31572"/>
+    <Property Name="TimeLastPlayed" Value="42.2895"/>
+  </Object>
+  <Object Id="DIALOGUE_WheelspinsX" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="1184"/>
+    <Property Name="TimeLastPlayed" Value="63.8967"/>
+  </Object>
+  <Object Id="DIALOGUE_WrongCar" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="-1"/>
+    <Property Name="TimeLastPlayed" Value="64.4797"/>
+  </Object>
+  <Object Id="DIALOGUE_YellowWristbandDJ" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="1"/>
+    <Property Name="VariationSeed" Value="-1"/>
+    <Property Name="TimeLastPlayed" Value="-3.40282e+038"/>
+  </Object>
+  <Object Id="DIALOGUE_ie_first_race_select_destination" Type="DialogueSaveState">
+    <Property Name="PlayCount" Value="0"/>
+    <Property Name="VariationSeed" Value="-1"/>
+    <Property Name="TimeLastPlayed" Value="9.7569"/>
+  </Object>
+  <Object Id="DialogueEventHandlerRivalsComponentSaveState" Type="DialogueEventHandlerRivalsComponentSaveState">
+    <Property Name="NumRivalRacesDeclinedInARow" Value="0"/>
+  </Object>
+  <Object Id="DialogueModuleSaveState" Type="DialogueModuleSaveState">
+    <Property Name="DialogueTime" Value="74.3404"/>
+  </Object>
+  <Object Id="ForzaEconomyState" Type="ForzaEconomyState">
+    <Property Name="CreditDestinationBonus" Value="30000"/>
+    <Property Name="CreditDestinationFalloff" Value="2000"/>
+    <Property Name="SubmitXpFrequency" Value="300000"/>
+    <Property Name="XPPerKmOffline" Value="800"/>
+    <Property Name="XPPerKmOnline" Value="640"/>
+    <Property Name="CreditsPerKm" Value="960"/>
+    <Property Name="MinimumFinishlineXP" Value="0"/>
+    <Property Name="TombolaPrizeScale" Value="1"/>
+    <Property Name="HorizonPromoBonusScale" Value="1"/>
+    <Property Name="TokensEnabled" Value="false"/>
+    <Property Name="XboxMusicEnabled" Value="false"/>
+  </Object>
+  <Object Id="GameDVRState" Type="GameDVRState"/>
+  <Object Id="Garage" Type="StringArrayState">
+    <Property Name="StringArray" Value=""/>
+  </Object>
+  <Object Id="IslandChampionshipDrivatarsState" Type="ChampionshipDrivatarsState"/>
+  <Object Id="LiveryUGCSaveState" Type="UGCSaveState">
+    <Property Name="TimeSpentWithUGC" Value="0"/>
+    <Property Name="CurrentContainerName" Value="Livery_1655_20261102070723"/>
+  </Object>
+  <Object Id="PlayerState" Type="PlayerState">
+    <Property Name="PlayerPosition" Value="9518.53,4.07129,-7906.47"/>
+    <Property Name="PlayerFacing" Value="-0.983719,0.0456369,0.173821"/>
+    <Property Name="RestoreFacingNextEvent" Value="false"/>
+    <Property Name="LastAnnaRecommendation" Value=""/>
+    <Property Name="SecondToLastAnnaRecommendation" Value=""/>
+    <Property Name="TreasureMapPurchased" Value="false"/>
+    <Property Name="IslandTreasureMapPurchased" Value="false"/>
+    <Property Name="LastTrackVisited" Value="542"/>
+  </Object>
+  <Object Id="RaceActivationTutorial" Type="TutorialSaveState">
+    <Property Name="Seen" Value="true"/>
+  </Object>
+  <Object Id="RaceEncounterVOComponentSaveState" Type="RaceEncounterVOComponentSaveState">
+    <Property Name="RaceHistoryBits" Value="0"/>
+    <Property Name="NumRaceResults" Value="0"/>
+  </Object>
+  <Object Id="RadioState" Type="RadioState">
+    <Property Name="PlayedMusic" Value="StationOff,0,0|Horizon Pulse,2883625326,1596070398|Bass Arena,740905873,3036605953|Horizon XS,1274436833,0|Radio Levante,0,0|Hospital Records,0,0|Ninja Tune,0,0|Innovative Leisure,0,0|"/>
+    <Property Name="ActiveStation" Value="Horizon Pulse"/>
+    <Property Name="StationListenTime" Value="StationOff,0|Horizon Pulse,3196|Bass Arena,387|Horizon XS,2|Radio Levante,0|Hospital Records,0|Ninja Tune,0|Innovative Leisure,0|"/>
+  </Object>
+  <Object Id="RestorePointState" Type="RestorePointState">
+    <Property Name="RestorePosition" Value="9446.15,64.4117,-6993.32"/>
+    <Property Name="RestorePointFlow" Value="car_meet.enter_offline_car_meet_ita_coast"/>
+  </Object>
+  <Object Id="RoadDiscovery" Type="RoadDiscoveryState"/>
+  <Object Id="SpeedTrapTutorial" Type="TutorialSaveState">
+    <Property Name="Seen" Value="true"/>
+  </Object>
+  <Object Id="SpeedZoneTutorial" Type="TutorialSaveState">
+    <Property Name="Seen" Value="false"/>
+  </Object>
+  <Object Id="TombolaState" Type="TombolaState">
+    <Property Name="Seed" Value="1865781"/>
+    <Property Name="PrizeIndex" Value="0"/>
+    <Property Name="DoneInitialExperience" Value="false"/>
+    <Property Name="WonHyperPrize" Value="false"/>
+    <Property Name="Spins" Value="98"/>
+    <Property Name="NotificationRequired" Value="None"/>
+  </Object>
+  <Object Id="TuningUGCSaveState" Type="UGCSaveState">
+    <Property Name="TimeSpentWithUGC" Value="0"/>
+    <Property Name="CurrentContainerName" Value=""/>
+  </Object>
+  <Object Id="barn_find_01" Type="BarnFindState">
+    <Property Name="State" Value="Hidden"/>
+    <Property Name="TimeAtDiscovery" Value="-1"/>
+    <Property Name="RestorationTimeBonus" Value="0"/>
+    <Property Name="ShowMapElement" Value="false"/>
+    <Property Name="TimePassedSinceSpawned" Value="0"/>
+    <Property Name="TimePassedSinceFirstDriving" Value="0"/>
+    <Property Name="TimePassedSinceViewMapNotification" Value="0"/>
+    <Property Name="MapOpenedPostSpawn" Value="false"/>
+  </Object>
+  <Object Id="barn_find_02" Type="BarnFindState">
+    <Property Name="State" Value="Hidden"/>
+    <Property Name="TimeAtDiscovery" Value="-1"/>
+    <Property Name="RestorationTimeBonus" Value="0"/>
+    <Property Name="ShowMapElement" Value="false"/>
+    <Property Name="TimePassedSinceSpawned" Value="0"/>
+    <Property Name="TimePassedSinceFirstDriving" Value="0"/>
+    <Property Name="TimePassedSinceViewMapNotification" Value="0"/>
+    <Property Name="MapOpenedPostSpawn" Value="false"/>
+  </Object>
+  <Object Id="barn_find_03" Type="BarnFindState">
+    <Property Name="State" Value="Hidden"/>
+    <Property Name="TimeAtDiscovery" Value="-1"/>
+    <Property Name="RestorationTimeBonus" Value="0"/>
+    <Property Name="ShowMapElement" Value="false"/>
+    <Property Name="TimePassedSinceSpawned" Value="0"/>
+    <Property Name="TimePassedSinceFirstDriving" Value="0"/>
+    <Property Name="TimePassedSinceViewMapNotification" Value="0"/>
+    <Property Name="MapOpenedPostSpawn" Value="false"/>
+  </Object>
+  <Object Id="barn_find_04" Type="BarnFindState">
+    <Property Name="State" Value="Hidden"/>
+    <Property Name="TimeAtDiscovery" Value="-1"/>
+    <Property Name="RestorationTimeBonus" Value="0"/>
+    <Property Name="ShowMapElement" Value="false"/>
+    <Property Name="TimePassedSinceSpawned" Value="0"/>
+    <Property Name="TimePassedSinceFirstDriving" Value="0"/>
+    <Property Name="TimePassedSinceViewMapNotification" Value="0"/>
+    <Property Name="MapOpenedPostSpawn" Value="false"/>
+  </Object>
+  <Object Id="barn_find_05" Type="BarnFindState">
+    <Property Name="State" Value="Hidden"/>
+    <Property Name="TimeAtDiscovery" Value="-1"/>
+    <Property Name="RestorationTimeBonus" Value="0"/>
+    <Property Name="ShowMapElement" Value="false"/>
+    <Property Name="TimePassedSinceSpawned" Value="0"/>
+    <Property Name="TimePassedSinceFirstDriving" Value="0"/>
+    <Property Name="TimePassedSinceViewMapNotification" Value="0"/>
+    <Property Name="MapOpenedPostSpawn" Value="false"/>
+  </Object>
+  <Object Id="barn_find_06" Type="BarnFindState">
+    <Property Name="State" Value="Hidden"/>
+    <Property Name="TimeAtDiscovery" Value="-1"/>
+    <Property Name="RestorationTimeBonus" Value="0"/>
+    <Property Name="ShowMapElement" Value="false"/>
+    <Property Name="TimePassedSinceSpawned" Value="0"/>
+    <Property Name="TimePassedSinceFirstDriving" Value="0"/>
+    <Property Name="TimePassedSinceViewMapNotification" Value="0"/>
+    <Property Name="MapOpenedPostSpawn" Value="false"/>
+  </Object>
+  <Object Id="barn_find_07" Type="BarnFindState">
+    <Property Name="State" Value="Hidden"/>
+    <Property Name="TimeAtDiscovery" Value="-1"/>
+    <Property Name="RestorationTimeBonus" Value="0"/>
+    <Property Name="ShowMapElement" Value="false"/>
+    <Property Name="TimePassedSinceSpawned" Value="0"/>
+    <Property Name="TimePassedSinceFirstDriving" Value="0"/>
+    <Property Name="TimePassedSinceViewMapNotification" Value="0"/>
+    <Property Name="MapOpenedPostSpawn" Value="false"/>
+  </Object>
+  <Object Id="barn_find_08" Type="BarnFindState">
+    <Property Name="State" Value="Hidden"/>
+    <Property Name="TimeAtDiscovery" Value="-1"/>
+    <Property Name="RestorationTimeBonus" Value="0"/>
+    <Property Name="ShowMapElement" Value="false"/>
+    <Property Name="TimePassedSinceSpawned" Value="0"/>
+    <Property Name="TimePassedSinceFirstDriving" Value="0"/>
+    <Property Name="TimePassedSinceViewMapNotification" Value="0"/>
+    <Property Name="MapOpenedPostSpawn" Value="false"/>
+  </Object>
+  <Object Id="barn_find_09" Type="BarnFindState">
+    <Property Name="State" Value="Hidden"/>
+    <Property Name="TimeAtDiscovery" Value="-1"/>
+    <Property Name="RestorationTimeBonus" Value="0"/>
+    <Property Name="ShowMapElement" Value="false"/>
+    <Property Name="TimePassedSinceSpawned" Value="0"/>
+    <Property Name="TimePassedSinceFirstDriving" Value="0"/>
+    <Property Name="TimePassedSinceViewMapNotification" Value="0"/>
+    <Property Name="MapOpenedPostSpawn" Value="false"/>
+  </Object>
+  <Object Id="barn_find_10" Type="BarnFindState">
+    <Property Name="State" Value="Hidden"/>
+    <Property Name="TimeAtDiscovery" Value="-1"/>
+    <Property Name="RestorationTimeBonus" Value="0"/>
+    <Property Name="ShowMapElement" Value="false"/>
+    <Property Name="TimePassedSinceSpawned" Value="0"/>
+    <Property Name="TimePassedSinceFirstDriving" Value="0"/>
+    <Property Name="TimePassedSinceViewMapNotification" Value="0"/>
+    <Property Name="MapOpenedPostSpawn" Value="false"/>
+  </Object>
+  <Object Id="barn_find_restoration" Type="GameTimeState">
+    <Property Name="ActiveTime" Value="1583.09"/>
+  </Object>
+  <Object Id="barn_find_spawning" Type="BarnFindSpawningState">
+    <Property Name="TimeOfLastSpawn" Value="0"/>
+    <Property Name="TimeOfInitialEvent" Value="0"/>
+    <Property Name="SpawnedInitialBarnFind" Value="false"/>
+    <Property Name="SpawnedIslandBarnFind" Value="false"/>
+  </Object>
+  <Object Id="bucket_list_slot_03" Type="BucketListSlotState">
+    <Property Name="Discovered" Value="false"/>
+  </Object>
+  <Object Id="bucket_list_slot_06" Type="BucketListSlotState">
+    <Property Name="Discovered" Value="true"/>
+  </Object>
+  <Object Id="bucket_list_slot_08" Type="BucketListSlotState">
+    <Property Name="Discovered" Value="true"/>
+  </Object>
+  <Object Id="bucket_list_slot_09" Type="BucketListSlotState">
+    <Property Name="Discovered" Value="true"/>
+  </Object>
+  <Object Id="bucket_list_slot_10" Type="BucketListSlotState">
+    <Property Name="Discovered" Value="true"/>
+  </Object>
+  <Object Id="bucket_list_slot_11" Type="BucketListSlotState">
+    <Property Name="Discovered" Value="true"/>
+  </Object>
+  <Object Id="bucket_list_slot_12" Type="BucketListSlotState">
+    <Property Name="Discovered" Value="true"/>
+  </Object>
+  <Object Id="bucket_list_slot_13" Type="BucketListSlotState">
+    <Property Name="Discovered" Value="true"/>
+  </Object>
+  <Object Id="bucket_list_slot_14" Type="BucketListSlotState">
+    <Property Name="Discovered" Value="true"/>
+  </Object>
+  <Object Id="bucket_list_slot_15" Type="BucketListSlotState">
+    <Property Name="Discovered" Value="true"/>
+  </Object>
+  <Object Id="bucket_list_slot_17" Type="BucketListSlotState">
+    <Property Name="Discovered" Value="true"/>
+  </Object>
+  <Object Id="bucket_list_slot_20" Type="BucketListSlotState">
+    <Property Name="Discovered" Value="false"/>
+  </Object>
+  <Object Id="bucket_list_slot_24" Type="BucketListSlotState">
+    <Property Name="Discovered" Value="false"/>
+  </Object>
+  <Object Id="bucket_list_slot_27" Type="BucketListSlotState">
+    <Property Name="Discovered" Value="false"/>
+  </Object>
+  <Object Id="bucket_list_slot_30" Type="BucketListSlotState">
+    <Property Name="Discovered" Value="false"/>
+  </Object>
+  <Object Id="bucket_list_slot_33" Type="BucketListSlotState">
+    <Property Name="Discovered" Value="false"/>
+  </Object>
+  <Object Id="bucket_list_slot_47" Type="BucketListSlotState">
+    <Property Name="Discovered" Value="true"/>
+  </Object>
+  <Object Id="bucket_list_slot_50" Type="BucketListSlotState">
+    <Property Name="Discovered" Value="false"/>
+  </Object>
+  <Object Id="bucket_list_slot_55" Type="BucketListSlotState">
+    <Property Name="Discovered" Value="true"/>
+  </Object>
+  <Object Id="bucket_list_slot_58" Type="BucketListSlotState">
+    <Property Name="Discovered" Value="true"/>
+  </Object>
+  <Object Id="bucket_list_slot_62" Type="BucketListSlotState">
+    <Property Name="Discovered" Value="false"/>
+  </Object>
+  <Object Id="car_meets_global" Type="CarMeetState">
+    <Property Name="NumCarMeetsVisited" Value="1"/>
+  </Object>
+  <Object Id="discount_board_travel_001" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_002" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_003" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_004" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_005" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_006" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_007" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_008" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Discovered"/>
+  </Object>
+  <Object Id="discount_board_travel_009" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_010" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_011" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_012" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_013" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_014" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_015" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_016" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_017" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_018" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_019" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_020" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_021" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_022" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_023" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_024" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_025" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_026" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_027" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_028" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_029" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_030" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_031" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_032" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_033" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Discovered"/>
+  </Object>
+  <Object Id="discount_board_travel_034" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Discovered"/>
+  </Object>
+  <Object Id="discount_board_travel_035" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_036" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_037" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_038" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_039" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_040" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_041" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Discovered"/>
+  </Object>
+  <Object Id="discount_board_travel_042" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_043" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_044" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_045" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Discovered"/>
+  </Object>
+  <Object Id="discount_board_travel_046" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_047" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_048" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_049" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_travel_050" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_001" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_002" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_003" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_004" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_005" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_006" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_007" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_008" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_009" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_010" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_011" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_012" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_013" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_014" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_015" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_016" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_017" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_018" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_019" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_020" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_021" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_022" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_023" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_024" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_025" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_026" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_027" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_028" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_029" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_030" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_031" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_032" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_033" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_034" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_035" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_036" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_037" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Discovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_038" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_039" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_040" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_041" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_042" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_043" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_044" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_045" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_046" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_047" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_048" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Discovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_049" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_a_050" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_b_001" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_b_002" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_b_003" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Discovered"/>
+  </Object>
+  <Object Id="discount_board_xp_b_004" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_b_005" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_b_006" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_b_007" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_b_008" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_b_009" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_b_010" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_b_011" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_b_012" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_b_013" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_b_014" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_b_015" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_b_016" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_b_017" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_b_018" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_b_019" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_b_020" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_b_021" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_b_022" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_b_023" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_b_024" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_b_025" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_b_026" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_b_027" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_b_028" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_b_029" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_b_030" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_b_031" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_b_032" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_b_033" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_b_034" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_b_035" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_c_001" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_c_002" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_c_003" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_c_004" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_c_005" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_c_006" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_c_007" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_c_008" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_c_009" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_c_010" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_c_011" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_c_012" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_c_013" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_c_014" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="discount_board_xp_c_015" Type="DiscountBoardSaveState">
+    <Property Name="State" Value="Undiscovered"/>
+  </Object>
+  <Object Id="global_gameplay_time" Type="GameTimeState">
+    <Property Name="ActiveTime" Value="2070.4"/>
+  </Object>
+  <Object Id="iestate" Type="IESaveState">
+    <Property Name="IEState" Value="Complete"/>
+    <Property Name="HideAllEvents" Value="false"/>
+    <Property Name="IntroducedMultiplayer" Value="true"/>
+    <Property Name="IntroducedSkills" Value="true"/>
+    <Property Name="IntroducedSkillsToken" Value="true"/>
+    <Property Name="IntroducedHorizonPromo" Value="true"/>
+    <Property Name="IntroducedBucketlist" Value="true"/>
+    <Property Name="IntroducedBucketlistTutorial" Value="true"/>
+    <Property Name="ClubsIntroducible" Value="true"/>
+    <Property Name="IntroducedClubs" Value="true"/>
+    <Property Name="IntroducedCarMeets" Value="true"/>
+    <Property Name="IntroducedRaceEncounters" Value="false"/>
+    <Property Name="IntroducedSpeedCameras" Value="true"/>
+    <Property Name="IntroducedFestival" Value="true"/>
+    <Property Name="IntroducedAutoshow" Value="true"/>
+    <Property Name="IntroducedRewardBoards" Value="true"/>
+    <Property Name="IntroducedDestinationHubs" Value="true"/>
+    <Property Name="IntroducedDJWeather" Value="true"/>
+    <Property Name="IntroducedRoadDiscovery" Value="true"/>
+    <Property Name="IntroducedRoadDiscoveryUI" Value="true"/>
+    <Property Name="IntroducedMap" Value="true"/>
+    <Property Name="IntroducedMapFilter" Value="true"/>
+    <Property Name="IntroducedANNA" Value="true"/>
+    <Property Name="IntroducedRivals" Value="true"/>
+    <Property Name="IntroducedEventCompletion" Value="true"/>
+    <Property Name="IntroducedCastelletto" Value="true"/>
+    <Property Name="IntroducedNice" Value="true"/>
+    <Property Name="IntroducedSisteron" Value="true"/>
+    <Property Name="IntroducedMontellino" Value="true"/>
+    <Property Name="IntroducedSaintMartin" Value="true"/>
+    <Property Name="IntroducedSanGimignano" Value="true"/>
+    <Property Name="IntroducedXboxMusic" Value="false"/>
+    <Property Name="IntroducedXboxMusicPlaylists" Value="false"/>
+    <Property Name="IntroducedDriverLabels" Value="true"/>
+    <Property Name="IntroducedTimeOfDay" Value="true"/>
+    <Property Name="IntroducedWeather" Value="true"/>
+    <Property Name="IntroducedRoadTripQuit" Value="true"/>
+    <Property Name="IntroducedIslandInstalled" Value="true"/>
+    <Property Name="IntroducedIslandPurchased" Value="false"/>
+    <Property Name="IntroducedIslandMultiplayer" Value="false"/>
+    <Property Name="IntroducedIslandBucketlist" Value="false"/>
+    <Property Name="IntroducedIslandBucketlistTutorial" Value="false"/>
+    <Property Name="IntroducedIslandBucketlistReveal" Value="false"/>
+    <Property Name="ShownNextBlockingEventMapReveal" Value="true"/>
+    <Property Name="SeenMapPrompt" Value="true"/>
+    <Property Name="SeenMapPromptIsland" Value="false"/>
+    <Property Name="DoneFirstChampionship" Value="true"/>
+    <Property Name="IntroducedSaveGame" Value="true"/>
+    <Property Name="UnlockedFirstShowcase" Value="true"/>
+    <Property Name="CompletedFirstShowcase" Value="true"/>
+    <Property Name="CompletedSecondShowcase" Value="true"/>
+    <Property Name="CompletedFirstCarMeet" Value="true"/>
+  </Object>
+  <Object Id="islandiestate" Type="IslandIESaveState">
+    <Property Name="IEState" Value="IslandReveal"/>
+    <Property Name="HasAwardedInitialCar" Value="false"/>
+    <Property Name="HasAwardedGauntletCar" Value="false"/>
+  </Object>
+  <Object Id="pdlc_barn_find_01" Type="BarnFindState">
+    <Property Name="State" Value="Hidden"/>
+    <Property Name="TimeAtDiscovery" Value="-1"/>
+    <Property Name="RestorationTimeBonus" Value="0"/>
+    <Property Name="ShowMapElement" Value="false"/>
+    <Property Name="TimePassedSinceSpawned" Value="0"/>
+    <Property Name="TimePassedSinceFirstDriving" Value="0"/>
+    <Property Name="TimePassedSinceViewMapNotification" Value="0"/>
+    <Property Name="MapOpenedPostSpawn" Value="false"/>
+  </Object>
+  <Object Id="race_encounter" Type="GameTimeState">
+    <Property Name="ActiveTime" Value="1583.15"/>
+  </Object>
+  <Object Id="skills" Type="SkillsState">
+    <Property Name="SkillPointsTotal" Value="41675"/>
+    <Property Name="UnspentSkillPointsTotal" Value="3979"/>
+    <Property Name="CurrentSkillTokensTotal" Value="99"/>
+    <Property Name="BestSkillsCombo" Value="4725"/>
+  </Object>
+  <Object Id="speed_trap_01" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_trap_02" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_trap_03" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_trap_04" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_trap_05" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_trap_06" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_trap_07" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_trap_08" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_trap_09" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_trap_10" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_trap_11" Type="CameraState">
+    <Property Name="Discovered" Value="true"/>
+    <Property Name="Completed" Value="true"/>
+    <Property Name="PersonalBest" Value="74.8122"/>
+  </Object>
+  <Object Id="speed_trap_12" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_trap_13" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_trap_14" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_trap_15" Type="CameraState">
+    <Property Name="Discovered" Value="true"/>
+    <Property Name="Completed" Value="true"/>
+    <Property Name="PersonalBest" Value="34.8539"/>
+  </Object>
+  <Object Id="speed_trap_16" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_trap_17" Type="CameraState">
+    <Property Name="Discovered" Value="true"/>
+    <Property Name="Completed" Value="true"/>
+    <Property Name="PersonalBest" Value="45.5445"/>
+  </Object>
+  <Object Id="speed_trap_18" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_trap_19" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_trap_20" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_trap_21" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_trap_22" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_trap_23" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_trap_24" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_trap_25" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_trap_26" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_trap_27" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_trap_28" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_trap_29" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_trap_30" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_zone_01" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_zone_02" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_zone_03" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_zone_04" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_zone_05" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_zone_06" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_zone_07" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_zone_08" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_zone_09" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_zone_10" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_zone_11" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_zone_12" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_zone_13" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_zone_14" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+  <Object Id="speed_zone_15" Type="CameraState">
+    <Property Name="Discovered" Value="false"/>
+    <Property Name="Completed" Value="false"/>
+    <Property Name="PersonalBest" Value="0"/>
+  </Object>
+</ObjectDictionary>
